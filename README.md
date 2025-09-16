@@ -56,3 +56,4 @@ Este projeto descreve uma arquitetura moderna na AWS, utilizando recursos **serv
 ✨ **Autora** 
 👩🏻‍💻 Lauane Correia 
 Estudante de Comércio Exterior e apaixonada por tecnologia ☁️
+
